@@ -8,11 +8,11 @@ import MyMovie from '../components/MyMovie'
  const SignIn = () => {
    return (
      <>
-     {/* <SignInComp/> */}
+     <SignInComp/>
      {/* <NewMovie/> */}
      {/* <CreateMovie/> */}
      {/* <EditComp/> */}
-     <MyMovie/>
+     {/* <MyMovie/> */}
      </>
    )
  }
